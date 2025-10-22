@@ -18,8 +18,6 @@ Busco constantemente aprender novas tecnologias e aprimorar minhas habilidades t
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50"/>
 
 </div>
 
@@ -50,7 +48,7 @@ Site voltado à *acessibilidade e inclusão no esporte*, com foco em eventos e e
 
 ## Contato
 📧 *marianapereirampq@gmail.com*  
-🔗 [LinkedIn](https://www.linkedin.com/in/marianaqueirozz)
+🔗 [LinkedIn](https://www.linkedin.com/in/marianapeiroz)
 
 ---
 
